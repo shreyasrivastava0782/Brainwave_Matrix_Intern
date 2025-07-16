@@ -1,2 +1,2 @@
 # Brainwave_Matrix_Intern
-I have developed a clone of an Amazon website using html and CSS
+I have developed a landing page of an Amazon website using html and CSS 
